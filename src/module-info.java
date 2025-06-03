@@ -4,5 +4,5 @@
 /**
  * 
  */
-module LightsOut_IvanDiaz {
+module Lightsout_Final_IvanDiaz {
 }
